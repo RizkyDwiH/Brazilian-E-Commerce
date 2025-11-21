@@ -98,6 +98,7 @@
 ### Tools Used:
 - **SQL Server** - Data analysis and querying
 - **Tableau** - Dashboard visualization
+- **[Brazilian E-Commerce Dashboard – Tableau Public](https://public.tableau.com/app/profile/rizky.dwi.hariyadi/vizzes)**
 - **Python** - Data processing (optional)
 
 ### Analysis Approach:
